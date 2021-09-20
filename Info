@@ -12,3 +12,4 @@ Tokenize->Lower+Stem->Excluding Punctuation characters->Bag of words
 
 We are using NLTK framework.
 All the preprocessing steps are done using NLTK Library.
+We are also using Porter Stemer algorithm for stemming
