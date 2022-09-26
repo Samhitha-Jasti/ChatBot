@@ -1,15 +1,11 @@
-We have a deep learning network in the bot.
-It is called feet forward neural network.
+ALgorithm has deep learning network(Feet forward neural network).
 
 Tokenization- Splitting a string into meaningful units.
 (Punctuation characters works different for every tokenization technique)
 
-Stemming- A NLP techniques, generates the root form of the words.
+Stemming(Porter Stemer Algorithm)- A NLP techniques, generates the root form of the words.
 Crude heuristic that chops of the ends off of words.
 
 PreProcessing Pipeline---
 Tokenize->Lower+Stem->Excluding Punctuation characters->Bag of words
 
-We are using NLTK framework.
-All the preprocessing steps are done using NLTK Library.
-We are also using Porter Stemer algorithm for stemming
