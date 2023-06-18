@@ -1,6 +1,6 @@
 # ChatBot
 
-ALgorithm has deep learning network(Feet forward neural network).
+Algorithm has deep learning network(Feet forward neural network).
 
 Tokenization- Splitting a string into meaningful units.
 (Punctuation characters works different for every tokenization technique)
